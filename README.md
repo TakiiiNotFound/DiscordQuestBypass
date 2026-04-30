@@ -31,7 +31,8 @@ well please open a ticket in the "issues" github pages and ill try to fix it whe
 
 
 
-trigger warning ai has been used in this project for the following
+# trigger warning 
+ai has been used in this project for the following
 1 the rainbow effect of the executable file
 2 fixing bug
 3 help with making the UI cuz i suck at codding
