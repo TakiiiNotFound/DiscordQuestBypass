@@ -36,3 +36,4 @@ ai has been used in this project for the following
 1 the rainbow effect of the executable file
 2 fixing bug
 3 help with making the UI cuz i suck at codding
+4 fill my lazy ass's code
