@@ -2,27 +2,27 @@
   "games": [
     {
       "name": "Arena Breakout Infinite",
-      "path": "Arena Breakout Infinite\ABInfinite\Binaries\Win64",
+      "path": "Arena Breakout Infinite\\ABInfinite\\Binaries\\Win64",
       "executable": "CUAGame.exe"
     },
     {
       "name": "Fortnite",
-      "path": "Fortnite\FortniteGame\Binaries\Win64",
+      "path": "Fortnite\\FortniteGame\\Binaries\\Win64",
       "executable": "FortniteClient-Win64-Shipping.exe"
     },
     {
       "name": "Genshin Impact",
-      "path": "Genshin Impact\Genshin Impact Game",
+      "path": "Genshin Impact\\Genshin Impact Game",
       "executable": "GenshinImpact.exe"
     },
     {
       "name": "Neverness To Everness",
-      "path": "NET\Neverness To Everness\Client\WindowsNoEditor\HT\Binaries\Win64",
+      "path": "NET\\Neverness To Everness\\Client\\WindowsNoEditor\\HT\\Binaries\\Win64",
       "executable": "HTGame.exe"
     },
     {
       "name": "NIKKE",
-      "path": "NIKKE\NIKKE\Game",
+      "path": "NIKKE\\NIKKE\\Game",
       "executable": "Nikke.exe"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "name": "Star Rail",
-      "path": "Star Rail\Games",
+      "path": "Star Rail\\Games",
       "executable": "StarRail.exe"
     },
     {
       "name": "Torchlight Infinite",
-      "path": "Torchlight Infinite\UE_game\Binaries\Win64",
+      "path": "Torchlight Infinite\\UE_game\\Binaries\\Win64",
       "executable": "torchlight_infinite.exe"
     },
     {
       "name": "Where Winds Meet",
-      "path": "Where Winds Meet\Win64",
+      "path": "Where Winds Meet\\Win64",
       "executable": "wwm.exe"
     },
     {
       "name": "Arknights Endfield",
-      "path": "Arknights Endfield\EndField Game",
+      "path": "Arknights Endfield\\EndField Game",
       "executable": "Endfield.exe"
     }
   ]
