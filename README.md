@@ -3,6 +3,13 @@
 a simple app to complets discord quest without having to own/play a game for 15 minute
 do not work on video quests or activity quests
 
+# showcase
+
+
+https://github.com/user-attachments/assets/4dca666d-46ee-47a7-aec7-32ed4ff2b22d
+
+
+
 # how to use
 1 first download "DiscordQuestCompleter.exe" on the release page and run it
 2 select "update library" and wait a seconde
