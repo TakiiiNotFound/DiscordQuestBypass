@@ -51,6 +51,11 @@
       "executable": "wwm.exe"
     },
     {
+      "name": "delta force",
+      "path": "Delta Force\\Win64",
+      "executable": "DeltaForceClient-Win64-Shipping.exe"
+    },
+    {
       "name": "Arknights Endfield",
       "path": "Arknights Endfield\\EndField Game",
       "executable": "Endfield.exe"
