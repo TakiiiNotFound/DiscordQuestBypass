@@ -56,6 +56,11 @@
       "executable": "DeltaForceClient-Win64-Shipping.exe"
     },
     {
+      "name": "The Odyssey",
+      "path": "The Odyssey",
+      "executable": "TheOdyssey.exe"
+    },
+    {
       "name": "Arknights Endfield",
       "path": "Arknights Endfield\\EndField Game",
       "executable": "Endfield.exe"
