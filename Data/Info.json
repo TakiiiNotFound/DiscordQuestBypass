@@ -59,6 +59,11 @@
       "name": "Arknights Endfield",
       "path": "Arknights Endfield\\EndField Game",
       "executable": "Endfield.exe"
+    },
+    {
+      "name": "Roblox",
+      "path": "Roblox\\Versions\\version-9377ee10133e4be3",
+      "executable": "RobloxPlayerBeta.exe"
     }
   ]
 }
