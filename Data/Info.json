@@ -70,5 +70,15 @@
       "path": "Rune Dice",
       "executable": "Rune Dice.exe"
     }
+    {
+      "name": "Path of Exile",
+      "path": "Path of Exile",
+      "executable": "PathOfExile.exe"
+    },
+    {
+      "name": "World of Tanks HEAT",
+      "path": "World of Tanks HEAT",
+      "executable": "HEAT.exe"
+    }
   ]
 }
