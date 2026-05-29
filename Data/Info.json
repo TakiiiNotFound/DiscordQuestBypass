@@ -73,12 +73,12 @@
     {
       "name": "Path of Exile 2",
       "path": "Grinding Gear Games\\Path of Exile 2",
-      "executable": "pathofexile.exe"
+      "executable": "PathOfExile_x64Steam.exe"
     },
     {
       "name": "World of Tanks: HEAT",
-      "path": "World_of_Tanks\\win64",
-      "executable": "WorldOfTanks.exe"
+      "path": "WoT HEAT",
+      "executable": "wgcs_api.exe"
     }
   ]
 }
