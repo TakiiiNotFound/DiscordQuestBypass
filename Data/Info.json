@@ -84,6 +84,11 @@
       "name": "Forza Horizon 6",
       "path": "XboxGames\\Forza Horizon 6\\Content",
       "executable": "forzahorizon6.exe"
+    },
+    {
+      "name": "Duet Night Abyss",
+      "path": "EM\\Binaries\\Win64",
+      "executable": "EM-Win64-Shipping.exe"
     }
   ]
 }
