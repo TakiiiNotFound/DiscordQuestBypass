@@ -81,7 +81,7 @@
       "executable": "wgcs_api.exe"
     },
     {
-      "name": "Forza Horizon 6",
+      "name": "Forza Horizon 6 < broken atm",
       "path": "XboxGames\\Forza Horizon 6\\Content",
       "executable": "forzahorizon6.exe"
     },
