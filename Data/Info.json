@@ -89,6 +89,11 @@
       "name": "Duet Night Abyss",
       "path": "EM\\Binaries\\Win64",
       "executable": "EM-Win64-Shipping.exe"
+    },
+    {
+      "name": "FC26",
+      "path": "EA Games\\EA SPORTS FC 26",
+      "executable": "FC26.exe"
     }
   ]
 }
