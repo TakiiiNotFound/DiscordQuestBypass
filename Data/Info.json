@@ -97,7 +97,7 @@
     },
     {
       "name": "Escape the backrooms",
-      "path": "EscapeTheBackrooms\\Binaries\\Win64",
+      "path": "EscapeTheBackrooms\\EscapeTheBackrooms\\Binaries\\Win64",
       "executable": "Backrooms-Win64-Shipping.exe"
     }
   ]
