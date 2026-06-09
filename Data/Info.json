@@ -99,6 +99,11 @@
       "name": "Escape the backrooms",
       "path": "EscapeTheBackrooms\\EscapeTheBackrooms\\Binaries\\Win64",
       "executable": "Backrooms-Win64-Shipping.exe"
+    },
+    {
+      "name": "Wuthering Waves",
+      "path": "Wuthering Waves\\Wuthering Waves Game\\Client\\Binaries\\Win64",
+      "executable": "Client-Win64-Shipping.exe"
     }
   ]
 }
