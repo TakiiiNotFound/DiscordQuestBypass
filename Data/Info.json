@@ -104,6 +104,11 @@
       "name": "Wuthering Waves",
       "path": "Wuthering Waves\\Wuthering Waves Game\\Client\\Binaries\\Win64",
       "executable": "Client-Win64-Shipping.exe"
+    },
+    {
+      "name": "Yu-Gi-Oh! Master Duel",
+      "path": "Yu-Gi-Oh! Master Duel",
+      "executable": "masterduel.exe"
     }
   ]
 }
