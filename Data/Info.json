@@ -110,5 +110,10 @@
       "path": "Yu-Gi-Oh!  Master Duel",
       "executable": "masterduel.exe"
     }
+    {
+      "name": "The Mound Omen of Cthulhu Demo",
+      "path": "The Mound Omen of Cthulhu Demo\\TheMound\\Binaries\\Win64",
+      "executable": "TheMound-Win64-Shipping.exe"
+    }
   ]
 }
