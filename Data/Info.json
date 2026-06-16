@@ -117,8 +117,8 @@
     },
     {
       "name": "EMPULSE",
-      "path": "EMPULSE\\Engine\\Binaries\\Win64",
-      "executable": "ColtraneClient-Win64-Shipping.exe"
+      "path": "Orion\\Orion\\Binaries\\Win64",
+      "executable": "OrionClient-Win64-Shipping.exe"
     }
   ]
 }
