@@ -114,6 +114,11 @@
       "name": "The Mound Omen of Cthulhu Demo",
       "path": "The Mound Omen of Cthulhu Demo\\TheMound\\Binaries\\Win64",
       "executable": "TheMound-Win64-Shipping.exe"
+    },
+    {
+      "name": "EMPULSE",
+      "path": "EMPULSE\\Engine\\Binaries\\Win64",
+      "executable": "ColtraneClient-Win64-Shipping.exe"
     }
   ]
 }
