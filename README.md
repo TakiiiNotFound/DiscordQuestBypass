@@ -39,5 +39,5 @@ ai has been used in this project for the following
 4 fill my lazy ass's code
 
 # ganmes that dont work
-forza horizon 6
-goals
+- forza horizon 6
+- goals
