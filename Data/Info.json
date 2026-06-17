@@ -122,13 +122,19 @@
     },
     {
       "name": "Goals",
-      "path": "Game/Binaries/Win64",
+      "path": "GOALS\\Game\\Binaries\\Win64",
       "executable": "Goals.exe"
     },
     {
       "name": "Warframe",
       "path": "Warframe",
       "executable": "Warframe.x64.exe"
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "path": "Zenless Zone Zero\\games\\ZenlessZoneZero Game",
+      "executable": "ZenlessZoneZero.exe"
     }
   ]
 }
+Zenless Zone Zero/games/ZenlessZoneZero Game/ZenlessZoneZero.exe
