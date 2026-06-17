@@ -119,6 +119,16 @@
       "name": "EMPULSE",
       "path": "Orion\\Orion\\Binaries\\Win64",
       "executable": "OrionClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Goals",
+      "path": "Game/Binaries/Win64",
+      "executable": "Goals.exe"
+    },
+    {
+      "name": "Warframe",
+      "path": "Warframe",
+      "executable": "Warframe.x64.exe"
     }
   ]
 }
