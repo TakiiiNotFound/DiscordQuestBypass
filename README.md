@@ -37,3 +37,7 @@ ai has been used in this project for the following
 2 fixing bug
 3 help with making the UI cuz i suck at codding
 4 fill my lazy ass's code
+
+# ganmes that dont work
+forza horizon 6
+goals
