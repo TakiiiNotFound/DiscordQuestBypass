@@ -125,6 +125,11 @@
       "path": "Zenless Zone Zero\\games\\ZenlessZoneZero Game",
       "executable": "ZenlessZoneZero.exe"
     }
+    {
+      "name": "Valorant < testing",
+      "path": "Valorant\\live\\ShooterGame\\Binaries\\Win64",
+      "executable": "VALORANT-Win64-Shipping.exe"
+    }
   ]
 }
 
