@@ -129,6 +129,11 @@
       "name": "Valorant",
       "path": "Valorant\\live\\ShooterGame\\Binaries\\Win64",
       "executable": "VALORANT-Win64-Shipping.exe"
+    },
+    {
+      "name": "Old School RuneScape",
+      "path": "Old School RuneScape\\bin\\win64",
+      "executable": "osclient.exe"
     }
   ]
 }
