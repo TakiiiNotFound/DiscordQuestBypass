@@ -134,6 +134,11 @@
       "name": "Old School RuneScape",
       "path": "Old School RuneScape\\bin\\win64",
       "executable": "osclient.exe"
+    },
+    {
+      "name": "Delta Force",
+      "path": "Delta Force\\Game\\DeltaForce\\Binaries\\Win64",
+      "executable": "DeltaForceClient-Win64-Shipping.exe"
     }
   ]
 }
