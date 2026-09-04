@@ -149,6 +149,21 @@
       "name": "RuneScape",
       "path": "RuneScape\\bin\\win64",
       "executable": "RuneScape.exe"
+    },
+    {
+      "name": "Helldivers 2",
+      "path": "HELLDIVERS 2\\bin",
+      "executable": "helldivers2.exe"
+    },
+    {
+      "name": "Marvel Snap",
+      "path": "SNAP",
+      "executable": "SNAP.exe"
+    },
+    {
+      "name": "Dragons Dogma 2",
+      "path": "Dragons Dogma 2",
+      "executable": "DD2.exe"
     }
   ]
 }
