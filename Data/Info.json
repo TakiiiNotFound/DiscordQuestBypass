@@ -1,9 +1,59 @@
 {
   "games": [
     {
+      "name": "Aniimo",
+      "path": "Aniimo",
+      "executable": "Aniimo.exe"
+    },
+    {
       "name": "Arena Breakout Infinite",
       "path": "Arena Breakout Infinite\\ABInfinite\\Binaries\\Win64",
       "executable": "CUAGame.exe"
+    },
+    {
+      "name": "Arknights Endfield",
+      "path": "Arknights Endfield\\EndField Game",
+      "executable": "Endfield.exe"
+    },
+    {
+      "name": "delta force",
+      "path": "Delta Force\\Win64",
+      "executable": "DeltaForceClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Delta Force",
+      "path": "Delta Force\\Game\\DeltaForce\\Binaries\\Win64",
+      "executable": "DeltaForceClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Dragons Dogma 2",
+      "path": "Dragons Dogma 2",
+      "executable": "DD2.exe"
+    },
+    {
+      "name": "Dragonstride: Legacy Reborn",
+      "path": "Dragonheir Silent Gods",
+      "executable": "Dragonheir.exe"
+    },
+    {
+      "name": "Duet Night Abyss",
+      "path": "EM\\Binaries\\Win64",
+      "executable": "EM-Win64-Shipping.exe"
+    },
+    {
+      "name": "EMPULSE",
+      "path": "Orion\\Orion\\Binaries\\Win64",
+      "executable": "OrionClient-Win64-Shipping.exe"
+    },
+    {
+      "name": "Escape the backrooms",
+      "path": "EscapeTheBackrooms\\EscapeTheBackrooms\\Binaries\\Win64",
+      "executable": "Backrooms-Win64-Shipping.exe"
+    },
+    {
+      "name": "FC26",
+      "path": "EA Games\\EA SPORTS FC 26",
+      "executable": "FC26.exe"
     },
     {
       "name": "Fortnite",
@@ -16,6 +66,21 @@
       "executable": "GenshinImpact.exe"
     },
     {
+      "name": "Helldivers 2",
+      "path": "HELLDIVERS 2\\bin",
+      "executable": "helldivers2.exe"
+    },
+    {
+      "name": "Marvel Rivals",
+      "path": "MarvelRivals\\MarvelGame\\Marvel\\Binaries\\Win64",
+      "executable": "Marvel-Win64-Shipping.exe"
+    },
+    {
+      "name": "Marvel Snap",
+      "path": "SNAP",
+      "executable": "SNAP.exe"
+    },
+    {
       "name": "Neverness To Everness",
       "path": "NET\\Neverness To Everness\\Client\\WindowsNoEditor\\HT\\Binaries\\Win64",
       "executable": "HTGame.exe"
@@ -26,39 +91,24 @@
       "executable": "Nikke.exe"
     },
     {
+      "name": "Old School RuneScape",
+      "path": "Old School RuneScape\\bin\\win64",
+      "executable": "osclient.exe"
+    },
+    {
       "name": "Once Human",
       "path": "Once Human",
       "executable": "ONCE_HUMAN.exe"
     },
     {
-      "name": "Skate",
-      "path": "Skate",
-      "executable": "skate.exe"
+      "name": "Onimusha: Way of the Sword",
+      "path": "OnimushaWotS",
+      "executable": "OnimushaWotS.exe"
     },
     {
-      "name": "Star Rail",
-      "path": "Star Rail\\Games",
-      "executable": "StarRail.exe"
-    },
-    {
-      "name": "Torchlight Infinite",
-      "path": "Torchlight Infinite\\UE_game\\Binaries\\Win64",
-      "executable": "torchlight_infinite.exe"
-    },
-    {
-      "name": "Where Winds Meet",
-      "path": "Where Winds Meet\\Win64",
-      "executable": "wwm.exe"
-    },
-    {
-      "name": "delta force",
-      "path": "Delta Force\\Win64",
-      "executable": "DeltaForceClient-Win64-Shipping.exe"
-    },
-    {
-      "name": "Arknights Endfield",
-      "path": "Arknights Endfield\\EndField Game",
-      "executable": "Endfield.exe"
+      "name": "Path of Exile 2",
+      "path": "Grinding Gear Games\\Path of Exile 2",
+      "executable": "PathOfExile_x64Steam.exe"
     },
     {
       "name": "Roblox",
@@ -71,29 +121,64 @@
       "executable": "Rune Dice.exe"
     },
     {
-      "name": "Path of Exile 2",
-      "path": "Grinding Gear Games\\Path of Exile 2",
-      "executable": "PathOfExile_x64Steam.exe"
+      "name": "RuneScape",
+      "path": "RuneScape\\bin\\win64",
+      "executable": "RuneScape.exe"
+    },
+    {
+      "name": "Skate",
+      "path": "Skate",
+      "executable": "skate.exe"
+    },
+    {
+      "name": "Stalzone",
+      "path": "STALZONE\\bin_global\\win64\\java\\bin",
+      "executable": "stalcraftw.exe"
+    },
+    {
+      "name": "Star Rail",
+      "path": "Star Rail\\Games",
+      "executable": "StarRail.exe"
+    },
+    {
+      "name": "Street Fighter 6",
+      "path": "Street Fighter 6",
+      "executable": "StreetFighter6.exe"
+    },
+    {
+      "name": "The Mound Omen of Cthulhu Demo",
+      "path": "The Mound Omen of Cthulhu Demo\\TheMound\\Binaries\\Win64",
+      "executable": "TheMound-Win64-Shipping.exe"
+    },
+    {
+      "name": "Torchlight Infinite",
+      "path": "Torchlight Infinite\\UE_game\\Binaries\\Win64",
+      "executable": "torchlight_infinite.exe"
+    },
+    {
+      "name": "Valorant",
+      "path": "Valorant\\live\\ShooterGame\\Binaries\\Win64",
+      "executable": "VALORANT-Win64-Shipping.exe"
+    },
+    {
+      "name": "War Thunder",
+      "path": "War Thunder\\win64",
+      "executable": "aces.exe"
+    },
+    {
+      "name": "Warframe",
+      "path": "Warframe",
+      "executable": "Warframe.x64.exe"
+    },
+    {
+      "name": "Where Winds Meet",
+      "path": "Where Winds Meet\\Win64",
+      "executable": "wwm.exe"
     },
     {
       "name": "World of Tanks: HEAT",
       "path": "WoT HEAT",
       "executable": "wgcs_api.exe"
-    },
-    {
-      "name": "Duet Night Abyss",
-      "path": "EM\\Binaries\\Win64",
-      "executable": "EM-Win64-Shipping.exe"
-    },
-    {
-      "name": "FC26",
-      "path": "EA Games\\EA SPORTS FC 26",
-      "executable": "FC26.exe"
-    },
-    {
-      "name": "Escape the backrooms",
-      "path": "EscapeTheBackrooms\\EscapeTheBackrooms\\Binaries\\Win64",
-      "executable": "Backrooms-Win64-Shipping.exe"
     },
     {
       "name": "Wuthering Waves",
@@ -106,49 +191,9 @@
       "executable": "masterduel.exe"
     },
     {
-      "name": "The Mound Omen of Cthulhu Demo",
-      "path": "The Mound Omen of Cthulhu Demo\\TheMound\\Binaries\\Win64",
-      "executable": "TheMound-Win64-Shipping.exe"
-    },
-    {
-      "name": "EMPULSE",
-      "path": "Orion\\Orion\\Binaries\\Win64",
-      "executable": "OrionClient-Win64-Shipping.exe"
-    },
-    {
-      "name": "Warframe",
-      "path": "Warframe",
-      "executable": "Warframe.x64.exe"
-    },
-    {
       "name": "Zenless Zone Zero",
       "path": "Zenless Zone Zero\\games\\ZenlessZoneZero Game",
       "executable": "ZenlessZoneZero.exe"
-    },
-    {
-      "name": "Valorant",
-      "path": "Valorant\\live\\ShooterGame\\Binaries\\Win64",
-      "executable": "VALORANT-Win64-Shipping.exe"
-    },
-    {
-      "name": "Old School RuneScape",
-      "path": "Old School RuneScape\\bin\\win64",
-      "executable": "osclient.exe"
-    },
-    {
-      "name": "Delta Force",
-      "path": "Delta Force\\Game\\DeltaForce\\Binaries\\Win64",
-      "executable": "DeltaForceClient-Win64-Shipping.exe"
-    },
-    {
-      "name": "Stalzone",
-      "path": "STALZONE\\bin_global\\win64\\java\\bin",
-      "executable": "stalcraftw.exe"
-    },
-    {
-      "name": "RuneScape",
-      "path": "RuneScape\\bin\\win64",
-      "executable": "RuneScape.exe"
     }
   ]
 }
